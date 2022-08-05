@@ -1,0 +1,29 @@
+.container {
+    width: 90%;
+    height: 70rem;
+    background-color: aqua;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.todo-container {
+    background-color: blueviolet;
+    width: 80%;
+    height: 40rem;
+    display: flex;
+    flex-direction: column;
+}
+.button-container {
+    display: flex;
+
+}
+.button-add {
+    width: 50%;
+}
+.button-show {
+    width: 50%;
+}
+.button-change-color {
+    width: 70%;
+}
